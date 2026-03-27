@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://webrootantivirusloginonpc.readthedocs.io/en/latest/
